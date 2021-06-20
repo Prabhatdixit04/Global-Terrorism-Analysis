@@ -1,4 +1,4 @@
-# Global-Terrorism-Analysis
+
 <h1 align="center">Global-Terrorism Analysis</h1>
 <p align="center"> 
 <img src=https://media.giphy.com/media/l0HlCjhxMSf6OEX96/giphy.gif alt="image.png" width="350px" height="250px">
